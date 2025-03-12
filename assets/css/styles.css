@@ -526,6 +526,14 @@ img {
   width: 80%;
 }
 
+.skills__vuejs{
+  width: 75%;
+}
+
+.skills__typescript{
+  width: 80%;
+}
+
 .skills__java{
   width: 90;
 }
@@ -543,11 +551,19 @@ img {
 }
 
 .skills__figma{
-  width: 85%;
+  width: 95%;
 }
 
 .skills__balsamiq{
   width: 70%;
+}
+
+.skills__uxresearch{
+  width: 85%;
+}
+
+.skills__rectnative{
+  width: 90%;
 }
 
 .skills__close .skills__list{
